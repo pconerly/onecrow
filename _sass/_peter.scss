@@ -6,6 +6,26 @@ h2.post-link-h2 {
 .site-header {
     background: url('../images/onecrow_original.jpg'); 
     background-repeat: no-repeat;
-    background-position: center top;
+    background-position-y: top;
+    background-position-x: center;
     height: 200px;
+
+    @include media-query($on-laptop) {
+      // border: 1px solid red;
+      background-position-x: -260px;
+    }
+}
+
+.page-content, .site-footer {
+  background-color: #fff;
+}
+
+body {
+  max-width: 1300px;
+  margin-left: auto;
+  margin-right: auto;
+
+  background-position: left top;
+  background: url('../images/concrete_seamless.png'); 
+
 }
