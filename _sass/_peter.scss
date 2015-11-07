@@ -1,23 +1,48 @@
 
 h2.post-link-h2 {
-    margin-bottom: 0px;
+  margin-bottom: 0px;
 }
 
 .site-header {
-    background: url('../images/onecrow_original.jpg'); 
-    background-repeat: no-repeat;
-    background-position-y: top;
-    background-position-x: center;
-    height: 200px;
+  background: url('../images/onecrow_original.jpg'); 
+  background-repeat: no-repeat;
+  background-position-y: top;
+  background-position-x: center;
+  height: 200px;
 
-    @include media-query($on-laptop) {
-      // border: 1px solid red;
-      background-position-x: -260px;
-    }
+  @include media-query($on-laptop) {
+    background-position-x: -260px;
+  }
 }
+
+/*
+.site-footer {
+  background: url('../images/onecrow_original.jpg'); 
+  background-repeat: no-repeat;
+  background-position-y: center;
+  background-position-x: center;
+  height: 200px;
+
+  @include media-query($on-laptop) {
+    background-position-x: -260px;
+  }
+
+  .footer-col-wrapper {
+    color: #424242;
+
+    a {
+      color: #1756a9;
+    }
+  }
+}
+*/
 
 .page-content, .site-footer {
   background-color: #fff;
+}
+
+.page-content {
+  padding-top: 10px;
 }
 
 body {

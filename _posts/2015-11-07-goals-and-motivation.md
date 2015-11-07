@@ -7,7 +7,7 @@ comments: true
 ---
 I've got a blog! I'm sharing this with the world! What makes me think that a lowly 10kyu's thoughst are valuable to be shared.
 
-I want to improve in Go. I have been fascinated with it for over a decade and it's a mystery that deserves more attention.  I also loook at those twelve years of playing occassionally, and I'm sad that I never was disciplined to really improve.  I look at my peers, and there are plenty who have hit the dan level.  I want to understand Go at that level.
+I want to improve in Go. I have been fascinated with it for over a decade and it's a mystery that deserves more attention.  I also look at those twelve years of playing occassionally, and I'm sad that I never was disciplined to really improve.  I look at my peers, and there are plenty who have hit the dan level.  I want to understand Go at that level.
 
 Part of improving, on anything, is to practice consciously.  Mindlessly throwing down stones doesn't count, one needs to think about one's moves, and review games.
 
