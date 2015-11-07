@@ -3,6 +3,7 @@ layout: post
 title:  "Goals and Motivation"
 date:   2015-11-06 16:16:58 -0800
 published: true
+comments: true
 ---
 I've got a blog! I'm sharing this with the world! What makes me think that a lowly 10kyu's thoughst are valuable to be shared.
 
