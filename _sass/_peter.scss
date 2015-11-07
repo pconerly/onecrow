@@ -37,12 +37,15 @@ h2.post-link-h2 {
 }
 */
 
-.page-content, .site-footer {
+.page-content {
   background-color: #fff;
+  padding-top: 10px;
 }
 
-.page-content {
-  padding-top: 10px;
+.site-footer {
+  .footer-col-wrapper {
+    color: #424242;
+  }
 }
 
 body {
