@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Goals and Motivation"
-date:   2015-11-06 16:16:58 -0800
+date:   2015-11-07 16:16:58 -0800
 published: true
 comments: true
 ---
