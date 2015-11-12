@@ -4,7 +4,7 @@ h2.post-link-h2 {
 }
 
 .site-header {
-  background: url('../images/onecrow_original.jpg'); 
+  background: url('../assets/onecrow_original.jpg');
   background-repeat: no-repeat;
   background-position-y: top;
   background-position-x: center;
@@ -17,7 +17,7 @@ h2.post-link-h2 {
 
 /*
 .site-footer {
-  background: url('../images/onecrow_original.jpg'); 
+  background: url('../assets/onecrow_original.jpg'); 
   background-repeat: no-repeat;
   background-position-y: center;
   background-position-x: center;
@@ -48,12 +48,78 @@ h2.post-link-h2 {
   }
 }
 
+.post-list {
+  li {
+    margin-bottom: 0px;
+  }
+}
+
 body {
   max-width: 1300px;
   margin-left: auto;
   margin-right: auto;
 
   background-position: left top;
-  background: url('../images/concrete_seamless.png'); 
+  background: url('../assets/concrete_seamless.png');
 
+}
+
+/* glift stuff */
+
+.center-2col-300 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 646px;
+}
+
+.onecrow {
+  &.glift {
+    position: relative;
+    margin-left: 10px;
+    margin-right: 10px;
+
+    &.s300 {
+      height: 300px;
+      width: 300px;
+    }
+    &.s320 {
+      height: 320px;
+      width: 320px;
+    }
+    &.inline {
+      // width: 300px;
+      display: inline-block;
+    }
+
+    &.center {
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+}
+
+.wstone {
+  display: inline-block;
+  font-family: monospace;
+  width: 24px;
+  -moz-border-radius: 12px;
+  border-radius: 12px;
+  text-align: center;
+  color: #000;
+  border: 1px solid #000;
+  background-color: #fff;
+}
+.bstone {
+  display: inline-block;
+  font-family: monospace;
+  width: 24px;
+  -moz-border-radius: 12px;
+  border-radius: 12px;
+  text-align: center;
+  color: #fff;
+  border: 1px solid #fff;
+  background-color: #000;
+}
+.tripledig {
+  font-size: 80%;
 }

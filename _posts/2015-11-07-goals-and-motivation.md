@@ -5,7 +5,7 @@ date:   2015-11-07 16:16:58 -0800
 published: true
 comments: true
 ---
-I've got a blog! I'm sharing this with the world! What makes me think that a lowly 10kyu's thoughst are valuable to be shared.
+I've got a blog! I'm sharing this with the world! What makes me think that a lowly 10kyu's thoughts are valuable to be shared.
 
 I want to improve in Go. I have been fascinated with it for over a decade and it's a mystery that deserves more attention.  I also look at those twelve years of playing occassionally, and I'm sad that I never was disciplined to really improve.  I look at my peers, and there are plenty who have hit the dan level.  I want to understand Go at that level.
 

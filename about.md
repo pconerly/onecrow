@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="/onecrow/images/about/peter.jpg" style="float:right; margin-left: 20px;" />
+<img src="/onecrow/assets/about/peter.jpg" style="float:right; margin-left: 20px;" />
 
 This is Peter's blog for writing about Go.  You'll find game reviews, thoughts about tesujis, and musings here.  To read more about his goals with this blog, read [Goals and Motivation](/onecrow/2015/11/07/goals-and-motivation.html).
 
